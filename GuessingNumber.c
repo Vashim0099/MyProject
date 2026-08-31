@@ -15,7 +15,7 @@ int main()
     scanf("%d",&i);//for input value of i
     while( i== 1)
     {
-        int rannum = (rand() % 100 + 1); //rannum is random number
+        int rannum = (rand() % 100 + 1); //rannum is random number between 1-100
         for(attempt = 1 ; attempt<=3 ; attempt++) //Number of attempts
         {
         printf("this is your %d attempt\n",attempt);
