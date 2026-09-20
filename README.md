@@ -38,9 +38,8 @@ HOW TO SETUP C COMPILER :
 
 Points before starting C or any language :
 
-
-  1] You must have Code runner extension which helps to run code directly on terminal and compilation.
-  2] You must have C/c++ extension.
-  3]for python and other language process is different
+    1] You must have Code runner extension which helps to run code directly on terminal and compilation.
+    2] You must have C/c++ extension.
+    3]for python and other language process is different
 
 For help video : https://youtu.be/z2jDamkbBF0?si=4oaNZC2axpVgYrc-
