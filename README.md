@@ -1,10 +1,11 @@
-step 1 : Copy the code or use or understand code.
-
-Step 2 : Paste this code in IDE that you use like VS cide , Vim etc
-
-Step 3 : Run and Compile. 
+Steps :  
+   
+    1] : Copy the code or use or understand code.
+    2] : Paste this code in IDE that you use like VS cide , Vim etc.
+    3] : Run and Compile. 
 
  Note :
+       
        1].You must have C compiler to run linked with your VS , zed etc.
        2].You must be familiar with your IDE .
 
@@ -35,12 +36,11 @@ HOW TO SETUP C COMPILER :
         11] Now you can C langauge in VS , zed etc IDE.
 
 
-Points before starting C or any language 
+Points before starting C or any language :
 
-1) You must have Code runner extension which helps to run code directly on terminal and compilation.
 
-2) You must have C/c++ extension.
-
-3) for python and other language process is different
+  1] You must have Code runner extension which helps to run code directly on terminal and compilation.
+  2] You must have C/c++ extension.
+  3]for python and other language process is different
 
 For help video : https://youtu.be/z2jDamkbBF0?si=4oaNZC2axpVgYrc-
